@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.update {
+    color: rgb(153, 180, 153);
+    text-decoration: none;
+    font-size: 15px;
+    text-transform: capitalize;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: cyan;
+}
+
+.delete {
+    color: red;
+    text-decoration: none;
+    font-size: 15px;
+    text-transform: capitalize;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: cyan;
+}
+
+body {
+    background-color: black;
+    color: white;
+    text-transform: capitalize;
+}
+
+a,
+.new {
+    text-align: center;
+    border-radius: 10px 2px;
+    font-size: 25px;
+}
